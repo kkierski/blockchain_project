@@ -243,7 +243,7 @@ while waiting_for_input:
             blockchain[0] = {
                 'previous_hash': '',
                 'index': 0,
-                'transactions': [{'sender': 'Pawel', 'recipient': 'Kamil', 'amount': 100.0}]
+                'transactions': [{'sender': 'Krystian', 'recipient': 'Kamil', 'amount': 100.0}]
             }
     elif user_choice == 'q':
         waiting_for_input = False
